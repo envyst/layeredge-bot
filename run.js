@@ -9,7 +9,7 @@ function startProcess() {
     console.log("Restarting WalletDashboard after 1 hour...");
     process.kill(); // Kill the current process
     startProcess(); // Restart the process
-  }, 3600000); // 1 hour
+  }, 1800000); // 1 hour
 }
 
 startProcess();
