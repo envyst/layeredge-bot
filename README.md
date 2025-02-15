@@ -35,7 +35,7 @@ Before running the bot, make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://codeberg.org/Galkurta/LayerEdge-BOT.git
+git clone https://github.com/envyst/layeredge-bot.git
 ```
 
 2. Navigate to the project directory:
